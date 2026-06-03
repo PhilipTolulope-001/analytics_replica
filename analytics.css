@@ -1,0 +1,221 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: #FFFFFFDE;
+    height: 65px;
+}
+/* #google{
+     height: ;
+} */
+#signinbutt{
+    background-color:  #4285F4;
+    margin-left: 1430px;
+    margin-top: -57px;
+    padding: 8px;
+    width: 4%;
+    font-size: 16px;
+    color: white;
+    border-radius: 3px;
+} 
+#herotext{
+    font-size: 17px;
+    background-color: #f70;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+}
+#herotext2{
+    width: 30vw;
+    border: 1px solid white;
+    padding: 65px 150px  65px 190px;
+    font-size: 22px;
+    height: 220px;
+}
+#heroimage{
+    background-image:url("./snipped.PNG");
+    height: 355px;
+    width: 756px;
+    margin-top: -352px;
+    margin-left: 763px;
+}
+#aacback{
+    background-color: #4285F4;
+}
+#aac{
+    font: 30px Roboto,sans-serif;
+    color: white;
+    margin: 0px 0 0 195px;
+    padding: 30px 0 18px 0px;
+    
+}
+#flexcontainer{
+    background-color: rgb(66, 133, 244);
+    width: 73.5vw;
+    height: 850px;
+    display: flex;
+    flex-direction: row;
+    flex-flow: wrap;
+    /* justify-content:;  */
+    margin-top: -19px; 
+    padding: 20px 195px;
+    /* padding-left: 150px;
+    padding-right: -1000px; */
+}
+#flexitems{
+    background-color: white;
+    width: 220px;
+    height: 370px;
+    margin: 10px;
+    padding: 20px;
+}
+#imagtop{
+    width: 50px;
+    height: 50px;
+}
+#flexitems p{
+    font: 23px Roboto,sans-serif ;
+    color: #000000DE   ;
+    font-weight: bold;
+}
+#flexitems section{
+    font: 16px Roboto,sans-serif;
+    margin-top:30px;
+    padding: 0px px;
+}
+#imagdown1{
+    margin-left: 160px;
+    margin-top: 50px;
+}
+#imagdown2{
+    margin-left: 160px;
+    margin-top: 70px;
+}
+#imagdown3{
+    margin-left: 160px;
+    margin-top: 50px;
+}
+#imagdown4{
+    margin-left: 160px;
+}
+#imagdown5{
+    margin-left: 160px;
+    margin-top: 85px;
+}
+#imagdown6{
+    margin-left: 160px;
+    margin-top: 45px;
+}
+#meet{
+    margin: 50px 0 0 200px;
+    font: 30px Roboto,sans-serif;
+}
+#authors{
+    border: 1px light ;
+    width: 70%;
+    margin: 50px auto 0 auto;
+    height: 200px;
+    position: relative;
+    box-shadow: 1px 1px 5px;
+    background-color: rgb(236, 236, 236);
+}
+#name1{
+    width: 79.2%;
+    height: 50px;
+    border: 1px solid black;
+    padding: 20px 0 0 220px;
+    font: 20px Roboto,sans-serif;
+    margin-top: -205px;
+}
+#authornote{
+    padding: 20px;
+    margin-left: 200px;
+}
+#miniintro{
+    font: 30px Roboto,sans-serif;
+    margin: 50px 0 0 230px;
+}
+#miniintrotext{
+    font: 16px Roboto,sans-serif;
+    margin: 0 0 0 230px;
+}
+#flexcontainer2{
+    display: flex;
+    flex-direction: row;
+    flex-flow: wrap;
+    padding: 20px 215px;
+    margin-top: ;
+}
+#flexitems2{
+    box-shadow: 1px px 2px;
+    width: 250px;
+    height: 140px;
+    margin: 10px;
+    background-color: rgb(240, 240, 240);
+}
+#flexcontainer2 img{
+    width: 50px;
+    height: 50px;
+    margin: 25px 0 0 100px;
+}
+#linkflex2{
+    padding: 5px;
+    text-align: center;
+}
+#footer{
+    border: 1px light;
+    width: 100%;
+    height: 170px;
+    background-color: rgb(240, 240, 240);
+    margin-top: 0px;
+} 
+#footerresources{
+    /* border: px solid black; */
+    height: 20px;
+    padding: 20px 220px;
+    font: 20px Roboto,sans-serif;
+    background-color: rgb(240, 240, 240);
+}
+footer{
+    display: flex;
+    flex-direction: row;
+    flex-flow: wrap;
+    padding: 20px 0px;
+}
+#footnote{
+    /* box-shadow: 1px 1px 5px; */
+    width: 250px;
+    height: 140px;
+    margin: 80px 0 0 -30px;
+}
+#footer img{
+    width: 70px;
+    height: 70px;
+    margin: -80px 0 0 290px;
+}
+#linkfooter{
+    margin:  0px -400px 0px 10px;
+    font: 15px Roboto,sans-serif;
+    text-align: center;
+    padding: 10px;
+    /* padding: 10px 0 0 20px; */
+}
+#lastfoot{
+    text-align: right;
+    font-weight: bold;
+    color: rgb(78, 78, 78);
+    font-size: 15px Roboto,sans-serif;
+    margin: 15px;
+    /* padding: 15px; */ 
+}
+#lastfoot li{
+    display: inline;
+    padding: 10px;
+}
+#bgremove{
+    margin-left: 535px;
+    margin-top: -18px;
+    width: 70px;
+    height: 70px;
+}
